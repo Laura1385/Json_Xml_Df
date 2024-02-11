@@ -1,0 +1,9 @@
+###### Requirements with Version Specifiers ######
+
+pandas == 2.1.0
+nltk == 3.8.1
+pymongo == 4.6.1
+
+#os / json / xml.etree.ElementTree / warnings /
+#you only need to call them, you don't need to install them because they are part of the Python standard library:
+#their version is therefore linked to the current version of Python used.
