@@ -1,13 +1,9 @@
 **Biot 7 febbraio 2024**
 
-Generated random input file, json & xml, with the site www.mockaroo.com.
-
 This Python code performs several operations:
 
-Retrieve data from an online source and process it
-
     A)RETRIEVE DATA
-        - From input file
+        - From input file (created from www.mockaroo.com)
         
     B)STORE DATA INTO A STRUCTURE
         - Dataframe
