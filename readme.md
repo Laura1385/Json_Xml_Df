@@ -5,6 +5,7 @@ Generated random input file, json & xml, with the site www.mockaroo.com.
 This Python code performs several operations:
 
 Retrieve data from an online source and process it
+
     A)RETRIEVE DATA
         - From input file
         
