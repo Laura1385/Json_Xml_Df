@@ -7,3 +7,14 @@ pymongo == 4.6.1
 #os / json / xml.etree.ElementTree / warnings /
 #you only need to call them, you don't need to install them because they are part of the Python standard library:
 #their version is therefore linked to the current version of Python used.
+
+
+
+#Check for library's version 
+#import pkg_resources
+#library_name = 'warnings'
+#try:
+#    library_version = pkg_resources.get_distribution(library_name).version
+#    print(f"The version of {library_name} in use is: {library_version}")
+#except pkg_resources.DistributionNotFound:
+#    print(f"{library_name} ist's install in the project.")
