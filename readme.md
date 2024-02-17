@@ -27,9 +27,11 @@ Folder 'Input' --> contains (jsondata.json & dataset.xml)
 requirements.txt --> libraries 
 
 nbook.ipynb --> notebook Jupyter
+
 main_code.py --> Python's code
 
 Dirty_JSON.xlsx & Dirty_XML.xlsx--> file for check
 
 Final_JSON.xlsx --> Final output
+
 Final_XML.xlsx --> Final output
