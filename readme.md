@@ -16,7 +16,7 @@ This Python code performs several operations:
         
     D)CREATE A NEW FILE OR STORE DATA
         - XSL, CSV ...
-        - Store into DB (MONGO o MYSQL)
+        - Store into DB MONGO
 
 
 Folder 'Input' --> contains (jsondata.json & dataset.xml)
