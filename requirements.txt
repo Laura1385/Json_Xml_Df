@@ -2,7 +2,7 @@
 
 pandas == 2.1.0
 nltk == 3.10.3
-pymongo == 4.6.1
+pymongo == 4.6.3
 
 #os / json / xml.etree.ElementTree / warnings /
 #you only need to call them, you don't need to install them because they are part of the Python standard library:
